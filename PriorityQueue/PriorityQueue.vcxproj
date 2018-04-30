@@ -126,7 +126,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="graph-10-1.txt" />
-    <Text Include="graph-800000-1.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

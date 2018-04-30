@@ -40,8 +40,5 @@
     <Text Include="graph-10-1.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="graph-800000-1.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
   </ItemGroup>
 </Project>
